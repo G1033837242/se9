@@ -14,7 +14,7 @@ public class MyCode {
         System.out.println(Arrays.asList(threeSum(num)));
     }
 
-    //两数,
+    //两数,1
     public int[] twoSum(int[] nums, int target) {
         // expect: O(N)  Hashmap
 
